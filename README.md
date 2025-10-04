@@ -18,7 +18,7 @@ The main goal is to uncover insights about restaurant distribution, sales behavi
 ## 📸 Dashboard Preview
 Here is a screenshot of the Zomato Power BI dashboard:
 
-![Zomato Dashboard](Zomato_Dashboard.png)
+![Zomato Dashboard](Zomato%20Dashboard.png)
 
 ---
 
